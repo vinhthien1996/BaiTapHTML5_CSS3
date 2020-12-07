@@ -3,3 +3,4 @@
 <br/>- HTML5
 <br/>- CSS3
 <br/>- JAVASCRIPT
+<img src="./image.png" />
